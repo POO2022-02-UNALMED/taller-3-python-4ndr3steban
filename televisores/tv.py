@@ -1,3 +1,5 @@
+from control import Control
+
 class TV:
 
     _numTV = 0
