@@ -1,4 +1,3 @@
-import imp
 from tv import TV
 
 class Contro:
