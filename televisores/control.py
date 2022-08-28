@@ -1,6 +1,6 @@
-from televisores.tv import TV
+from tv import TV
 
-class Contro:
+class Control:
     def __init__(self, tv):
         self._tv = tv
 
