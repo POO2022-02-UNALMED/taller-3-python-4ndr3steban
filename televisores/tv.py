@@ -1,5 +1,3 @@
-from control import Control
-
 class TV:
 
     _numTV = 0
@@ -10,7 +8,7 @@ class TV:
         self._precio = 500
         self._estado = estado
         self._volumen = 1
-        self._control
+        self._control = None
         TV._numTV += 1
 
     def setMarca(self,marca):
