@@ -1,4 +1,4 @@
-from tv import TV
+from televisores.tv import TV
 
 class Contro:
     def __init__(self, tv):
